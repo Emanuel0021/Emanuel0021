@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn as much programing as i can
 - 🌱 I’m currently just in the beguining of web development
 
-- 📫 How to reach me edjk021@gmail.com
+- 📫 How to reach me 
 - 
 
 <!---
